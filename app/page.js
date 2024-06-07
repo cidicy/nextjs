@@ -24,11 +24,11 @@ export default function Home() {
        <p>
        <br/> 5 least favourite support task:
        <p>
-       <br/> 1. 
-       <br/> 2. 
-       <br/> 3. 
-       <br/> 4. 
-       <br/> 5.
+       <br/> 1.Help resolve billing issues for customers
+       <br/> 2.Create video tutorials to help teach users a specific feature or use case
+       <br/> 3.Find and recruit teammates for the support team
+       <br/> 4. Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites
+       <br/> 5.Manage a support team
        </p>
        </p>
        <br/> ANSWER 2: What I wanted to learn or do more of at work is to get to know my colleagues better. I wanted to build relationship
